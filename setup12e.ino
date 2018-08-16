@@ -12,4 +12,5 @@ void loop() {
   digitalWrite(D7, LOW);
   digitalWrite(BUILTIN_LED2, LOW);
   delay(1000);
+  Serial.println("blink!");
 }
