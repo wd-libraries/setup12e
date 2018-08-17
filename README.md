@@ -1,4 +1,4 @@
-![WombatDashbaord](https://i.imgur.com/7sZ34Xk.jpg "WombatDashboard")
+![WombatDashbaord](https://raw.githubusercontent.com/wd-libraries/setup12e/master/logo.jpg "WombatDashboard")
 
 # Setup ESP8266-12E and blink LEDs
 
